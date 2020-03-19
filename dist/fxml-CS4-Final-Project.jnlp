@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="fxml-CS4-Final-Project.jnlp">
+  <information>
+    <title>fxml-CS4-Final-Project</title>
+    <vendor>roy</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="fxml-CS4-Final-Project.jar" size="3143" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="fxml.cs4.pkgfinal.project.FxmlCS4FinalProject"  name="fxml-CS4-Final-Project" />
+  <update check="always"/>
+</jnlp>
